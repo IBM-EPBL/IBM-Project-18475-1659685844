@@ -14,3 +14,4 @@ Loan predicction using python flask
 8. Deploying Application.
 
 # COMPONENTS
+1. Dat 
